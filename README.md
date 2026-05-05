@@ -6,7 +6,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 - Flashcard study flow with progress tracking
 - Offline Dzardzongke ⇄ English dictionary with fuzzy search
-- Audio pronunciations for Dzongkha words
+- Audio pronunciations for Dzardzongke words
 - Image-based animal vocabulary flashcards
 - Detailed language explanations for grammar and vocabulary
 
@@ -114,7 +114,7 @@ Example:
 
 ## Audio Pronunciations
 
-The dictionary includes support for audio pronunciations of Dzongkha words. Here's how to manage audio files:
+The dictionary includes support for audio pronunciations of Dzardzongke words. Here's how to manage audio files:
 
 ### Adding Audio Files
 
@@ -124,7 +124,7 @@ The dictionary includes support for audio pronunciations of Dzongkha words. Here
    - Use 128kbps quality for a good balance between size and quality
 
 2. **Name your audio file**:
-   - Use the Dzongkha word as the filename (e.g., `go.mp3` for the word "go")
+   - Use the Dzardzongke word as the filename (e.g., `go.mp3` for the word "go")
    - For words with spaces, replace spaces with underscores (e.g., `go_tsukken.mp3`)
 
 3. **Add the file to the project**:
